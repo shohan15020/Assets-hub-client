@@ -22,7 +22,6 @@ The **Assets-hub** is aimed at facilitating asset and product management for bus
 - 🌐 **Frontend**: React, React Router Dom, TailwindCSS, Daisy UI, Vite
 - 🖥️ **Backend**: Node.js, Express, MongoDB, Cookie-Parser,stripe, JSON Web Token (JWT)
 - 🔐 **Authentication**: Firebase
-
 ---
 
 ## ✨ Features
